@@ -21,10 +21,9 @@
 </p>
 
 **LANGUAGES AND TOOLS:**  
-<br/>
-<br/>
+<br>
 <p align="center">
-  
+
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
